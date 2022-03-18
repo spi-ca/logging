@@ -1,9 +1,9 @@
 package logging
 
 import (
-	"amuz.es/src/logging/rotater"
 	"errors"
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
+	"github.com/spi-ca/logging/rotater"
 	"go.uber.org/zap"
 
 	"go.uber.org/zap/zapcore"

@@ -1,6 +1,6 @@
 // Package logging is convenient wrapper of zap logger.
 // It provides grouping, rotation.
-package logging // import "amuz.es/src/logging"
+package logging // import "github.com/spi-ca/logging"
 
 import (
 	"go.uber.org/zap"

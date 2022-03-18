@@ -1,4 +1,4 @@
-module amuz.es/src/logging
+module github.com/spi-ca/logging
 
 go 1.18
 
